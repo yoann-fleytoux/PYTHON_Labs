@@ -1,0 +1,5 @@
+
+Player suiveur Esperance for 10000 games == 1.18476
+Player aleatoire Esperance for 10000 games == 0.37518
+Player agressif Esperance for 10000 games == 1.24485
+Player rationel Esperance for 10000 games == 1.18754
